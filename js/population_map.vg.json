@@ -85,7 +85,7 @@
             ],
             "field": "2020 Population",
            
-            "title": "Country Population",
+            "title": "Population in a country",
             "type": "quantitative",
             "scale": {
               "type": "log",
